@@ -11,8 +11,8 @@ var squares = [
 var typeOfChange = ["house", "road"];
 
 var changeToEco = {
-  house: "/house.png",
-  road: "/road.png"
+  house: "media/house.png",
+  road: "media/road.png"
 }
 
 var button = $('.button');
